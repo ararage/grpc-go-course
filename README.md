@@ -46,3 +46,8 @@ $ ./bin/calculator/server
 ```console
 protoc -Igreet/proto --go_out=. --go_opt=module=github.com/ararage/grpc-go-course --go-grpc_out=. --go-grpc_opt=module=github.com/ararage/grpc-go-course greet/proto/dummy.proto
 ```
+
+
+### Evans Manual
+
+https://github.com/ktr0731/evans
